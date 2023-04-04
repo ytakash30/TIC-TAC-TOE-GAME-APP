@@ -1,2 +1,4 @@
 # TIC-TAC-TOE-GAME-APP
 THIS IS SIMPLE TIC TAC TOE GAME APP 
+now i'm changing readme
+
